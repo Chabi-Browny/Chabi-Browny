@@ -1,6 +1,6 @@
 - 👋 Hi, i’m @Chabi-Browny, my name is Csaba Baranabas Barcsa. Currently i’m a junior/medior web developer by God's Grace! Glory to God alone! :)
 - 👀 I’m interested in web development especially in backend, but i working in fullstack role mostly.
-- 📫 How to reach me:
+- 📫 You can reach me on:
   -  LinkedIn: https://www.linkedin.com/in/csaba-barcsa
 
 <!---
